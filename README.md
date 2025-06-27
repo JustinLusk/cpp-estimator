@@ -1,3 +1,3 @@
 # Cobra CIPP Bid App
 
-Run locally with `npm start` or deploy via Vercel.
+Run locally with `npm install && npm start` or deploy to Vercel.
