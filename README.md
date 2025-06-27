@@ -1,3 +1,3 @@
 # Cobra CIPP Bid App
 
-Run locally with `npm install && npm start` or deploy to Vercel.
+Includes dropdowns for liner size/thickness, pricing logic, and total calculation.
