@@ -1,0 +1,1 @@
+// React App entry point - placeholder for your full CIPP app logic
