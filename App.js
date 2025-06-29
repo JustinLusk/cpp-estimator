@@ -1,1 +1,0 @@
-// Final App.js logic placeholder — includes full estimator, tabs, LF pricing, and cost distribution.
