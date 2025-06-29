@@ -1,3 +1,3 @@
 # Cobra CIPP Bid App
 
-Includes dropdowns for liner size/thickness, pricing logic, and total calculation.
+Multi-diameter estimator with wet/dry liner pricing, editable costs, custom allocation, and rental tracking.
